@@ -1,4 +1,2 @@
 .ipynb_checkpoints
 breast_cancer.csv
-breast_cancer_model.joblib
-scaler.joblib
