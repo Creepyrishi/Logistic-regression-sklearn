@@ -93,5 +93,5 @@ if st.button('Predict'):
 
 # Add some information about the model
 st.sidebar.header('About')
-st.sidebar.write('This is a machine learning model deployed using Streamlit.')
-st.sidebar.write('Enter the feature values and click Predict to get predictions.')
+st.sidebar.write('This is my second project using sklearn.')
+st.sidebar.button('View Code on GitHub', url='https://github.com/Creepyrishi/Logistic-regression-sklearn.git')
